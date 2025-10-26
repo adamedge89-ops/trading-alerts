@@ -1,16 +1,1 @@
 3.11
-```
-4. Commit
-
-**Step 3: Fix `requirements.txt`**
-1. Find `requirements.txt` in your repo
-2. Click the pencil icon to edit
-3. DELETE everything in it
-4. Paste this:
-```
-requests==2.31.0
-pandas==2.0.3
-yfinance==0.2.32
-polygon-api-client==1.14.0
-pytz==2023.3
-gunicorn==21.2.0
